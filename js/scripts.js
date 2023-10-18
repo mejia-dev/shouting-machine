@@ -1,10 +1,5 @@
 // UI Logic
 
-function getData() {
-  const inputBox = document.getElementById("inputBox").value;
-  return inputBox;
-}
-
 // window.onload = function(){
 //     let form = document.querySelector("form");
 //     form.onsubmit = function(event){
